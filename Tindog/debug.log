@@ -1,0 +1,4 @@
+[1108/014433.263:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[1110/130653.994:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\Singh\AppData\Roaming\Brackets\live-dev-profile\Crashpad\attachments\e901921a-0412-4ae7-af80-f20e2e64fb41: The system cannot find the path specified. (0x3)
+[1110/130827.989:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[1114/135238.674:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
